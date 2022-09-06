@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MartinDevs
-- 👀 I’m interested in ...
-- 🌱 I’m always learning ...
+- 👀 I’m interested in creating new projects 
+- 🌱 I’m always learning new technologies 
 - 💞️ I enjoy working with asp.net core html css javascript and csharp
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project available 
 - Check out my youtube Channel https://www.youtube.com/channel/UCymPTmdV5goU-IBMCAPaErQ
 - 📫 How to reach me ...by email electronicsmf@aol.com
 
