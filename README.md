@@ -3,6 +3,7 @@
 - 🌱 I’m always learning ...
 - 💞️ I enjoy working with asp.net core html css javascript and csharp
 - 💞️ I’m looking to collaborate on ...
+- Check out my youtube Channel https://www.youtube.com/channel/UCymPTmdV5goU-IBMCAPaErQ
 - 📫 How to reach me ...by email electronicsmf@aol.com
 
 <!---
