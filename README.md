@@ -1,4 +1,4 @@
-[![MasterHead](https://external-preview.redd.it/lnuEq8JUcjDAPrrxNSH1tR7fIkzFlMtx6fui3VZYNFI.jpg?auto=webp&s=7986b3f8b5c1ba11a12b46a63e558c469ce7ce79)]
+[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Csharp_Programming_for_Beginners.jpg)]
 <h1 align="center">Hi 👋, I'm Martin Fernandez</h1>
 <h3 align="center">I'm passionate C# FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" />
