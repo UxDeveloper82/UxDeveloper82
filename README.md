@@ -1,5 +1,7 @@
+[![MasterHead](https://external-preview.redd.it/lnuEq8JUcjDAPrrxNSH1tR7fIkzFlMtx6fui3VZYNFI.jpg?auto=webp&s=7986b3f8b5c1ba11a12b46a63e558c469ce7ce79)]
 <h1 align="center">Hi 👋, I'm Martin Fernandez</h1>
 <h3 align="center">I'm passionate C# FullStack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" />
 
 - 🔭 I’m currently working on [Ecommerce-demo](https://github.com/UxDeveloper82/AspNetMyEcommerce)
 
@@ -17,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/martin-fernandez-b465b47a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-fernandez-b465b47a/" height="30" width="40" /></a>
 <a href="https://fb.com/martindevs-690772767726869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martindevs-690772767726869" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/ucymptmdv5gou-ibmcapaerq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucymptmdv5gou-ibmcapaerq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCymPTmdV5goU-IBMCAPaErQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucymptmdv5gou-ibmcapaerq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
